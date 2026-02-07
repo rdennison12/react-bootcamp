@@ -12,6 +12,7 @@ class App extends Component {
     }
 
     render() {
+        console.log('profile pic:', profile);
         return (
             <div>
                 <img src={profile} alt='profile' className='profile'/>

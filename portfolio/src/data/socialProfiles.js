@@ -1,6 +1,6 @@
 import githubIcon from '../assets/github_icon.png'
 import linkedinIcon from '../assets/linkedin_icon.png'
-import xIcon from '../assets/X_icon.png'
+import xIcon from '../assets/x_icon.png'
 import emailIcon from '../assets/email_icon.png'
 
 const SOCIAL_PROFILES = [

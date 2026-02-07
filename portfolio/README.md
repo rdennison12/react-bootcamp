@@ -6,13 +6,11 @@
 * Completed section 2 beginning of the learning journey
 
 
-**Available Scripts**
-
-In the project directory, you can run:
-
+**Running the project for development**\
+Ensure that you are in the project directory and run the following command:\
  ```npm run start```
 
-The app will automatically open in your default browser.\
+The app automatically opens in your default browser.\
 At [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 **Build the app for production**\
@@ -26,7 +24,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+**As a last resort... run this command**\
+```npm run eject```
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 

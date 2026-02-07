@@ -1,6 +1,6 @@
 import githubIcon from '../assets/github_icon.png'
 import linkedinIcon from '../assets/linkedin_icon.png'
-import twitterIcon from '../assets/twitter_icon.png'
+import xIcon from '../assets/X_icon.png'
 import emailIcon from '../assets/email_icon.png'
 
 const SOCIAL_PROFILES = [
@@ -16,8 +16,8 @@ const SOCIAL_PROFILES = [
     },
     {
         id: 3,
-        link: 'https://twitter.com/rdennison12',
-        image: twitterIcon
+        link: 'https://x.com/home',
+        image: xIcon
     },
     {
         id: 4,

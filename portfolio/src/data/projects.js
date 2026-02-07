@@ -11,10 +11,11 @@ const PROJECTS = [
         image: project1
     },
     {
+        // To link to a GitHub repo in a main repo, add /tree/master/name_of_repo
         id: 2,
         title: "My API",
         description: 'A REST API that I built from scratch with GET and POST requests',
-        link: 'https://github.com/rdennison12/react-bootcamp',
+        link: 'https://github.com/rdennison12/react-bootcamp/tree/master/portfolio',
         image: project2
     },
     {

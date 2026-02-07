@@ -2,6 +2,8 @@
 
 ## Commits
 * Initial commit – Create project and version control
+* Updated the portfolio project with social media links
+* Completed section 2 beginning of the learning journey
 
 
 **Available Scripts**

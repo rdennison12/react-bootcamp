@@ -22,11 +22,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-portfolio/.parcel-cache/
-
-portfolio/dist/
-
-starter/.parcel-cache/
-
-starter/dist/
